@@ -42,7 +42,7 @@ Joao 2 |
 
 ```javascript
 //SOLUCAO 1
-//Sera lido a primeira linha de entrada dos dados, referente a quantidade de alunos do grupo*/
+/*Sera lido a primeira linha de entrada dos dados, referente a quantidade de alunos do grupo*/
 var quantAlunos = gets();
 
 /*O loop while é para verificar os dados de cada grupo, e verificar qual aluno irá ganhar nesse grupo.
