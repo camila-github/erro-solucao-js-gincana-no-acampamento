@@ -1,7 +1,7 @@
 ## Exercicio - Gincana no acampamento
 
 O exercicio publicado é referente ao treinamento do BOOTCAMP - Desenvolvedor NodeJS - Ordenação e Filtro em JavaScript.
-(https://digitalinnovation.one)
+[https://digitalinnovation.one](https://digitalinnovation.one)
 
 #### Descrição do Desafio:
 
